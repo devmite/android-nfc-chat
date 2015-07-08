@@ -1,0 +1,1 @@
+NFC Chat for Android is just for the fun. Tap your handset to another handset to send a chat message or write a chat message into tag that is displayed to everyone which has the app installed and taps the tag.
